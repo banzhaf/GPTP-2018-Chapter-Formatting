@@ -7,7 +7,7 @@ This repository includes all the files you will need for preparing your GPTP 201
 
 ### Note
 
-This is a slight updated version from last year's procedure, written up by Bill Tozier. This year, Wolfgang will be the main point of contact. Please take a moment to read through.
+This is a slightly updated version from last year's procedure, written up by Bill Tozier. This year, Wolfgang will be the main point of contact. Please take a moment to read through.
 
 ## Timeline
 
