@@ -4,7 +4,7 @@ This repository includes all the files you will need for preparing your GPTP 201
 
 ### Note
 
-Updated from last year's procedure, and since the workshop occurred. Please take a moment to read through.
+This is a slightly updated version from last year's procedure, written up by Bill Tozier. This year, Wolfgang will be the main point of contact. Please take a moment to read through.
 
 ## Timeline
 
@@ -41,7 +41,7 @@ at line 39, add the chapter title
 
 #### Add author name(s)
 
-at line 43, add the author names
+at line 42 or 43, add the author names
 
 #### Add your nice place of work
 
