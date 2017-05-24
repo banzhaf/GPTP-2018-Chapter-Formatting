@@ -117,11 +117,11 @@ If you absolutely must must must have a full-page figure, please...
 Twenty five pages, rendered using this template. Including figures and bibliography. In exceptional cases,
 you can have a bit more space. But please ask us.
 
-#### ask questions
+#### Ask questions
 
 Please discuss your manuscript early and often on the Slack channel assigned to it.
 
-#### get it done
+#### Get it done
 
 Submit revised manuscripts by **1 August, 2017**. To submit your manuscript:
 
