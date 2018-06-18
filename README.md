@@ -21,8 +21,8 @@ This is essentially a copy of last year's procedure which is itself a variant of
 
 Just to make sure everything is set up correctly on your machine:
 
-1. Clone or download this repository; unzip it if necessary
-2. Navigate to the folder created, and then into `gptp2018-chapter`
+1. You can clone or download this repository; unzip it if necessary. Alternatively, you can download the latex format/instructions/template from Springer directly.
+2. Navigate to the folder created, and then into `gptp2017-chapter`
 3. Open the file `author.tex` in your LaTeX editor of choice
 4. Render the document (all dependencies used by the example chapter, including images and references, are already here in this directory)
 5. Take a moment to look over the document produced. It's loaded with helpful information for your own manuscript preparation!
